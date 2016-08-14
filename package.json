@@ -1,7 +1,7 @@
 {
-  "name": "timestamp",
+  "name": "whoami",
   "version": "0.0.0",
-  "description": "timestamp",
+  "description": "whoami",
   "main": "server.js",
   "author": "Prince",
   "dependencies": {
